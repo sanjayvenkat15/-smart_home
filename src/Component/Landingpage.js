@@ -248,7 +248,7 @@ appliances or outdoor or landscaping equipment. New innovations are
 	<img src={avatar1}/>
 </div>
 <div className='testimonial__work'>
-	<p><b>Barani</b></p>
+	<p><b>sanjay</b></p>
 	<small>Developer</small>
 </div>
 </div>
@@ -262,7 +262,7 @@ appliances or outdoor or landscaping equipment. New innovations are
 	<img src={avatar2}/>
 </div>
 <div className='testimonial__work'>
-	<p><b>Barani</b></p>
+	<p><b>sanjay</b></p>
 	<small>Developer</small>
 </div>
 </div>
@@ -276,7 +276,7 @@ appliances or outdoor or landscaping equipment. New innovations are
 	<img src={avatar3}/>
 </div>
 <div className='testimonial__work'>
-	<p><b>Barani</b></p>
+	<p><b>sanjay</b></p>
 	<small>Developer</small>
 </div>
 </div>
@@ -290,7 +290,7 @@ appliances or outdoor or landscaping equipment. New innovations are
 	<img src={avatar4}/>
 </div>
 <div className='testimonial__work'>
-	<p><b>Barani</b></p>
+	<p><b>sanjay</b></p>
 	<small>Developer</small>
 </div>
 </div>
@@ -469,19 +469,19 @@ appliances or outdoor or landscaping equipment. New innovations are
 <MdOutlineEmail className='contact__option-icon'/>
 <h4>Email</h4>
 <h5>baranees1@gmail.com</h5>
-<a href='mailto:baranees1@gmail.com'  target='_blank'>Send a message</a>
+<a href='mailto:sanjayven20@gmail.com'  target='_blank'>Send a message</a>
 </article>
 <article className='contact__option'>
 <RiMessengerLine className='contact__option-icon'/>
 <h4>Messenger</h4>
-<h5>barani_anandh</h5>
+<h5>sanjay</h5>
 <a href='https://www.facebook.com/messages/t/100009984880059'  target='_blank'>Send a message</a>
 </article>
 <article className='contact__option '>
 <BsWhatsapp className='contact__option-icon'/>
 <h4>Whatsapp</h4>
 <h5>+1234567890</h5>
-<a  href="https://api.whatsapp.com/send?phone=919790252548" target="_blank">Send a message</a>
+<a  href="https://api.whatsapp.com/send?phone=919790564130" target="_blank">Send a message</a>
 </article>
 
 
